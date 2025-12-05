@@ -1,7 +1,80 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\WEB\\Lap2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\migrations\\20251204101604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\migrations\\20251204101604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\migrations\\mvcmoviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\migrations\\mvcmoviecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|d:\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng web n\u00E2ng cao\\web\\lap2\\lap2\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8CA66C5B-CF86-4F6A-AE4A-7795823D0102}|Lap2\\Lap2.csproj|solutionrelative:lap2\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +82,249 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Lap2\\Models\\SeedData.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Models\\SeedData.cs",
+              "RelativeToolTip": "Lap2\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:06:17.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Lap2\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Lap2\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv5IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:10:55.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lap2\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Lap2\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T10:51:54.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lap2\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Lap2\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T02:04:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MvcMovieContext.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Data\\MvcMovieContext.cs",
+              "RelativeDocumentMoniker": "Lap2\\Data\\MvcMovieContext.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Data\\MvcMovieContext.cs",
+              "RelativeToolTip": "Lap2\\Data\\MvcMovieContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:11:57.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lap2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lap2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:30:38.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldController.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Controllers\\HelloWorldController.cs",
+              "RelativeDocumentMoniker": "Lap2\\Controllers\\HelloWorldController.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Controllers\\HelloWorldController.cs",
+              "RelativeToolTip": "Lap2\\Controllers\\HelloWorldController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:36:15.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Program.cs",
+              "RelativeDocumentMoniker": "Lap2\\Program.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Program.cs",
+              "RelativeToolTip": "Lap2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:44:20.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Lap2\\Models\\Movie.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Models\\Movie.cs",
+              "RelativeToolTip": "Lap2\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:53:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251204101604_InitialCreate.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Migrations\\20251204101604_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lap2\\Migrations\\20251204101604_InitialCreate.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Migrations\\20251204101604_InitialCreate.cs",
+              "RelativeToolTip": "Lap2\\Migrations\\20251204101604_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:16:05.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MvcMovieContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Migrations\\MvcMovieContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Lap2\\Migrations\\MvcMovieContextModelSnapshot.cs",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Migrations\\MvcMovieContextModelSnapshot.cs",
+              "RelativeToolTip": "Lap2\\Migrations\\MvcMovieContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T01:51:27.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lap2\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Lap2\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T10:51:51.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lap2\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Lap2\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T04:38:01.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\appsettings.json",
+              "RelativeDocumentMoniker": "Lap2\\appsettings.json",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\appsettings.json",
+              "RelativeToolTip": "Lap2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T10:20:58.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Lap2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "Lap2\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T09:41:45.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Lap2\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Lap2\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-04T05:18:42.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lap2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lap2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T05:18:52.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lap2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PH\u00C1T TRI\u1EC2N \u1EE8NG D\u1EE4NG WEB N\u00C2NG CAO\\WEB\\Lap2\\Lap2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lap2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T04:56:08.537Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 274,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

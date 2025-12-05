@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LAP3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+596d636df97dce5e6a2e174a806097cfd94d4122")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26dae0dcbc0f70ba4fa878deca0cc31198b85fb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LAP3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LAP3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
